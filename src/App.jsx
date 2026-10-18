@@ -211,9 +211,6 @@ export default function App() {
         </footer>
       </div>
 
-      <p className="footer-note">
-        Learn something new every day.
-      </p>
     </div>
   );
 }
